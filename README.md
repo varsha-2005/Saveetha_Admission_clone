@@ -11,7 +11,7 @@ Observe the split-screen layout with a promotional section on the left and a for
 Note the use of background images, text styling, and branding elements.
 
 #### 2. Create the HTML Structure:
-Use semantic tags like <section>, <header>, <form>, and <footer> to organize content.
+Use semantic tags like ```<section>, <header>, <form>, and <footer>``` to organize content.
 
 Structure the form with input fields such as name, email, phone, password, city, state, course, specialization, captcha, and checkbox.
 
